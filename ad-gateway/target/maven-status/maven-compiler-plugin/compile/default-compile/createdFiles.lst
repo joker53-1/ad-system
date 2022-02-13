@@ -1,3 +1,0 @@
-com\zheng\filter\PreRequestFilter.class
-com\zheng\filter\AccessLogFilter.class
-com\zheng\ZuulGatewayApplication.class
